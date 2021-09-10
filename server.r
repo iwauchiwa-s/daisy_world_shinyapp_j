@@ -1,8 +1,6 @@
 library("shiny")
 library("ggplot2")
 
-# Daisy world simulator by S. Sugawara
-
 shinyServer(function(input, output) {
   
   # constants
